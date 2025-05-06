@@ -1,0 +1,6 @@
+#Tue May 06 06:18:05 UTC 2025
+configuration*?=FD5E7AB362F8B4425013E6730BBFC1D86BF8524E
+module-resource*?\:checkstyle-xpath-suppressions.xml=5D8D3F07A55744AF5F6A73DBD303D1EB666A183
+module-resource*?\:checkstyle-suppressions.xml=D4361F685902C025DAAD27DD6C13072C06726080
+/home/project_jenkins/src/main/java/com/example/package-info.java=1746512058076
+/home/project_jenkins/src/main/java/com/example/Calculator.java=1746512095916

@@ -14,7 +14,7 @@ public final class Calculator {
     }
 
     /**
-     * Adds two integers and returns the result.
+     * Adds two integers and returns the resultsdf.
      *
      * @param a the first operand
      * @param b the second operand

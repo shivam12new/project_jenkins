@@ -3,7 +3,7 @@ package com.example;
 /**
  * A simple calculator utility class.
  * <p>
- * This class is not designed for inheritance.
+ * This class is not designed for inherisstance.
  * </p>
  */
 public final class Calculator {
